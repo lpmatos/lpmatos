@@ -42,10 +42,6 @@
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=lpmatos&hide=["issues"]&show_icons=true)
 
-<p align="center">
-  <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
-</p>
-
 #### Contacts
 
 <p align="left">
@@ -64,6 +60,10 @@
   <a href="https://www.instagram.com/luccapessoa/">
     <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="40px">
   </a>
+</p>
+
+<p align="center">
+  <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
