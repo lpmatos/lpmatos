@@ -4,27 +4,24 @@
   <a href="https://www.linkedin.com/in/luccapessoa">
     <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="20px">
   </a>
-
   <a href="https://github.com/lpmatos">
     <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="20px">
   </a>
-
   <a href="https://www.facebook.com/luccapessoa9">
     <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="20px">
   </a>
-
   <a href="https://www.instagram.com/luccapessoa/">
     <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="20px">
   </a>
 </p>
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Um pouco sobre mim...  </h2>
-
 Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell e Ruby, automações e cloud. Atuo como Analista Cloud focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban).
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
-  
-**Talking about Personal Stuffs:**
+
+<p>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Talking about Personal..
+</p>
 
 - 🔭 I’m currently working in Stefanini IT Solutions
 - 🌱 I’m currently learning GoLang, Terraform, Vagrant, Git branching models
