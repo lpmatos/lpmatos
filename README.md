@@ -14,7 +14,7 @@ If you'd like to support my work and buy me a ☕, I greatly appreciate it!
 
 #### Contacts
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/luccapessoa/">
     <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="40px">
   </a>
