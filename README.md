@@ -79,15 +79,3 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> <em><b> Adoro me conectar com pessoas diferentes</b> por isso, se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> :)<em></p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
-
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" 
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
-  </text>
-</svg>
