@@ -61,6 +61,6 @@
   <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<h3> em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"></h3>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
