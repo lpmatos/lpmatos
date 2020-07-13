@@ -1,5 +1,23 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> 👨‍💻! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"></h2>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/luccapessoa">
+    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="40px">
+  </a>
+
+  <a href="https://github.com/lpmatos">
+    <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="40px">
+  </a>
+
+  <a href="https://www.facebook.com/luccapessoa9">
+    <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="40px">
+  </a>
+
+  <a href="https://www.instagram.com/luccapessoa/">
+    <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="40px">
+  </a>
+</p>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
@@ -41,26 +59,6 @@
 </p>
 
 ![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true)
-
-#### Contacts
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/luccapessoa">
-    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="40px">
-  </a>
-
-  <a href="https://github.com/lpmatos">
-    <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="40px">
-  </a>
-
-  <a href="https://www.facebook.com/luccapessoa9">
-    <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="40px">
-  </a>
-
-  <a href="https://www.instagram.com/luccapessoa/">
-    <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="40px">
-  </a>
-</p>
 
 <p align="center">
   <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
