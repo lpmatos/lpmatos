@@ -76,6 +76,6 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
   <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="GIF">
 </p>
 
-<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<em></p>
+<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> <em><b> Adoro me conectar com pessoas diferentes</b> por isso, se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> :)<em></p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
