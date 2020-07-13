@@ -31,7 +31,7 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 <p>
   <h3>Tecnologias relevantes...</h3>
 
-  <img align="center" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="GIF" width="350" heigh="190"/>
+  <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
 
   <p>
     <em>
