@@ -29,7 +29,6 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
 <br>
-<br>
 
 <h3>Tecnologias relevantes...</h3>
 
