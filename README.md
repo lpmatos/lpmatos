@@ -79,3 +79,7 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> <em><b> Adoro me conectar com pessoas diferentes</b> por isso, se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> :)<em></p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
