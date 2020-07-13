@@ -18,11 +18,9 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
 
 Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell e Ruby, automações e cloud. Atuo como Analista Cloud focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban).
-
-Tecnologias relevantes: Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
   
@@ -64,5 +62,7 @@ Tecnologias relevantes: Linguagens de Script (Python, Ruby, Shell Script, PowerS
 </p>
 
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</p>
+
+Tecnologias relevantes: Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
