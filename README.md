@@ -1,5 +1,9 @@
 <h2> Hi there, I'm Lucca Pessoa 👨‍💻! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+
 - 🔭 I’m currently working on Stefanini - Cloud Analyst Jr
 - 🌱 I’m currently learning GoLang, Terraform, Vagrant, Git branching models
 - 👯 I’m looking to collaborate on Community Projects
@@ -30,8 +34,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true&hide_border=true)
 
 #### Contacts
 
