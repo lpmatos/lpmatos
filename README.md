@@ -15,10 +15,16 @@ If you'd like to support my work and buy me a ☕, I greatly appreciate it!
 #### Contacts
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luccapessoa/">
-    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="40px">
+  <a href="https://www.linkedin.com/in/lucca-pessoa-4abb71138/">
+    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="60px">
   </a>
   <a href="https://github.com/lpmatos">
-    <img alt="Github - /lpmatos" src="https://img.icons8.com/clouds/100/000000/github.png" width="40px">
+    <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="60px">
+  </a>
+  <a href="https://www.facebook.com/lucca.pessoa.9">
+    <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="60px">
+  </a>
+  <a href="https://www.instagram.com/luccapessoa/?hl=pt-br">
+    <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="60px">
   </a>
 </p>
