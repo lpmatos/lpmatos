@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi there 👋, I'm Lucca Pessoa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 - 🔭 I’m currently working on Stefanini - Cloud Analyst Jr
 - 🌱 I’m currently learning GoLang, Terraform, Vagrant, Git branching models
