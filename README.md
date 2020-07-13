@@ -40,7 +40,7 @@
   </a>
 </p>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=lpmatos&hide=["issues"]&show_icons=true)
+![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true)
 
 #### Contacts
 
