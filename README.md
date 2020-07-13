@@ -29,6 +29,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 <p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
