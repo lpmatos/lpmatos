@@ -23,10 +23,10 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Talking some personal stuffs..
 </h3>
 
-- 🔭 I’m currently working in Stefanini IT Solutions
-- 🌱 I’m currently learning GoLang, Terraform, Vagrant, Git branching models
-- 👯 I’m looking to collaborate on community projects
-- 💬 Ask me about everything that you want
+- 🔭 Autualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR
+- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: Terraform, Vagrant, Git branching models
+- 👯 Estou procurando colaborar em nvoas soluções e em projetos abertos
+- 💬 Me pergunte sobre qualquer coisa que você quiser
 
 <p align="center"><img width="350" heigh="190" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif"></p>
 
