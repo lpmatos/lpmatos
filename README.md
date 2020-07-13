@@ -42,7 +42,7 @@
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=lpmatos&hide=["issues"]&show_icons=true)
 
-<p align="left">
+<p align="center">
   <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 </p>
 
