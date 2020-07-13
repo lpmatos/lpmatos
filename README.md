@@ -39,9 +39,6 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 
 Tecnologias relevantes: Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
 
-@lpmatos on github https://github.com/lpmatos
-@lpmatos on gitlab https://gitlab.com/lpmatos
-
 <p align="center"><img width="350" heigh="190" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif"></p>
 
 <p align="left">
