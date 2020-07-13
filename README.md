@@ -14,8 +14,11 @@ If you'd like to support my work and buy me a ☕, I greatly appreciate it!
 
 #### Contacts
 
-[<img src="<img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>" width="40px" alt="Linkedin - /in/luccapessoa" />](https://www.linkedin.com/in/luccapessoa/)
-
-[<img src="https://img.icons8.com/clouds/100/000000/github.png" width="40px" alt="Github - /lpmatos" />](https://github.com/lpmatos)
-
-[<img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" width="40px" alt="Facebook - luccapessoa" />](https://www.facebook.com/lucca.pessoa.9)
+<p align="center">
+  <a href="https://www.linkedin.com/in/luccapessoa/">
+    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="40px">
+  </a>
+  <a href="https://github.com/lpmatos">
+    <img alt="Github - /lpmatos" src="https://img.icons8.com/clouds/100/000000/github.png" width="40px">
+  </a>
+</p>
