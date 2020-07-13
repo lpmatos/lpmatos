@@ -27,3 +27,7 @@
     <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="40px">
   </a>
 </p>
+
+---
+
+⭐️ From [@lpmatos](https://github.com/lpmatos)
