@@ -32,7 +32,7 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
   Tecnologias relevantes..
 </h3>
 
-<img align="right" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif" alt="GIF"/>
+<img align="center" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif" alt="GIF"/>
 
 <p><em>Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.<em></p>
 
