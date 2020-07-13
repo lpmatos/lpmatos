@@ -33,7 +33,14 @@
 <br />
 <br />
 
-#### Star projects
+### Star projects
+
+Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell e Ruby, automações e cloud. Atuo como Analista Cloud focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban).
+
+Tecnologias relevantes: Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
+
+@lpmatos on github https://github.com/lpmatos
+@lpmatos on gitlab https://gitlab.com/lpmatos
 
 <p align="center"><img width="350" heigh="190" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif"></p>
 
