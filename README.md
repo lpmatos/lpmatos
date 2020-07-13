@@ -2,19 +2,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luccapessoa">
-    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="40px">
+    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="30px">
   </a>
 
   <a href="https://github.com/lpmatos">
-    <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="40px">
+    <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="30px">
   </a>
 
   <a href="https://www.facebook.com/luccapessoa9">
-    <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="40px">
+    <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="30px">
   </a>
 
   <a href="https://www.instagram.com/luccapessoa/">
-    <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="40px">
+    <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="30px">
   </a>
 </p>
 
