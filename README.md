@@ -6,7 +6,6 @@
 - 💬 Ask me about everything that you want
 - 📫 How to reach me: luccapsm@gmail.com
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true&hide_border=true)
 
 #### Contacts
@@ -28,11 +27,3 @@
     <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="40px">
   </a>
 </p>
-
-### Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-<p align="center">Feito com ❤️ by <strong>Lucca Pessoa :wave:</p>
