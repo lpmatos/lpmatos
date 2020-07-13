@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
   
 **Talking about Personal Stuffs:**
 
@@ -32,6 +32,8 @@
 <br />
 <br />
 <br />
+
+<p align="center"><img width="350" heigh="190" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif"></p>
 
 <p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
