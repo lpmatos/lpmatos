@@ -30,16 +30,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
-</a>
+<p align="left">
+  <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
+  </a>
 
-<a href="https://github.com/lpmatos/twitter-sentimental-analysis-covid">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-sentimental-analysis-covid" />
-</a>
-
-<br />
-<br />
+  <a href="https://github.com/lpmatos/twitter-sentimental-analysis-covid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-sentimental-analysis-covid" />
+  </a>
+</p>
 
 #### Contacts
 
