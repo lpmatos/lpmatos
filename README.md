@@ -28,6 +28,13 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 - 👯 Estou procurando colaborar em nvoas soluções e em projetos abertos
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
+<h3>
+  <img src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif" alt="GIF" width="50px"> Tecnologias relevantes..
+</h3>
+
+<p><em>Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.<em></p>
+
+
 <p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
@@ -57,7 +64,5 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 </p>
 
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<em></p>
-
-Tecnologias relevantes: <em>Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.<em>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
