@@ -25,7 +25,7 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 
 - 🔭 Atualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR
 - 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang, Terraform, Vagrant, Git branching models
-- 👯 Estou procurando colaborar em nvoas soluções e em projetos abertos
+- 👯 Estou procurando colaborar em novas soluções e em projetos open-source
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
 <br>
