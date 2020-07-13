@@ -28,6 +28,8 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 - 👯 Estou procurando colaborar em nvoas soluções e em projetos abertos
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
+<br>
+<br>
 
 <h3>Tecnologias relevantes...</h3>
 
