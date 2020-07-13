@@ -23,12 +23,10 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Talking some personal stuffs..
 </h3>
 
-- 🔭 Autualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR
+- 🔭 Atualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR
 - 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang, Terraform, Vagrant, Git branching models
 - 👯 Estou procurando colaborar em nvoas soluções e em projetos abertos
 - 💬 Me pergunte sobre qualquer coisa que você quiser
-
-<p align="center"><img width="350" heigh="190" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif"></p>
 
 <p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
