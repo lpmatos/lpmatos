@@ -28,17 +28,19 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 - 👯 Estou procurando colaborar em nvoas soluções e em projetos abertos
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
-<p>
-  <h3>Tecnologias relevantes...</h3>
 
+<h3>Tecnologias relevantes...</h3>
+
+<p align="center">
   <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
-
-  <p>
-    <em>
-      Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
-    <em>
-  </p>
 </p>
+
+<p>
+  <em>
+    Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
+  <em>
+</p>
+
 
 <p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
