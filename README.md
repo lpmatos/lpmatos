@@ -45,6 +45,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
 </p>
 
+<p align="left">
+  <a href="https://github.com/lpmatos/zoho-dynamic-chart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=zoho-dynamic-chart" />
+  </a>
+
+  <a href="https://github.com/lpmatos/terraform-gitlab-variables">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=terraform-gitlab-variables" />
+  </a>
+</p>
+
 <p align="center">
   <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 </p>
