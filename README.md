@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Stefanini - Cloud Analyst Jr
 - 🌱 I’m currently learning GoLang, Terraform, Vagrant, Git branching models
-- 👯 I’m looking to collaborate on Community Projects
+- 👯 I’m looking to collaborate on community projects
 - 💬 Ask me about everything that you want
 - 📫 How to reach me: luccapsm@gmail.com
 
