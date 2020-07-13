@@ -19,9 +19,9 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
 
-<p>
+<h1>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Talking about Personal..
-</p>
+</h1>
 
 - 🔭 I’m currently working in Stefanini IT Solutions
 - 🌱 I’m currently learning GoLang, Terraform, Vagrant, Git branching models
