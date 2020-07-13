@@ -40,11 +40,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="Harsh's github stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&hide=["issues"]&show_icons=true" />
-  </a>
-</p>
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=lpmatos&hide=["issues"]&show_icons=true)
 
 #### Contacts
 
