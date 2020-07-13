@@ -1,7 +1,3 @@
-<p align="center">
-  <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
-</p>
-
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> 👨‍💻! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"></h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -45,6 +41,10 @@
 </p>
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=lpmatos&hide=["issues"]&show_icons=true)
+
+<p align="left">
+  <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+</p>
 
 #### Contacts
 
