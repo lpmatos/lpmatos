@@ -54,6 +54,8 @@
 
 <br>
 
+<h2>⚙️ Projetos...</h2>
+
 <p>
   <em>
     Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
