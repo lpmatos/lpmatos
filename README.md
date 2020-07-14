@@ -44,7 +44,7 @@
 
 <br>
 
-<h3>Tecnologias relevantes...</h3>
+<h2>⚡ Tecnologias relevantes...</h2>
 
 <br>
 
