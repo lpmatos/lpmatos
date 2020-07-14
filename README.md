@@ -15,7 +15,11 @@
   </a>
 </p>
 
-Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell e Ruby, automações e cloud. Atuo como Analista Cloud focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban).
+<p>
+  <samp>
+    Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell e Ruby, automações e cloud. Atuo como Analista Cloud focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban).
+  </samp>
+</p>
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
 
