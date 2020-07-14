@@ -27,10 +27,20 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Falando sobre mim..
 </h3>
 
-- 🔭 Atualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR
-- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang, Terraform, Vagrant, Git branching models
-- 👯 Estou procurando colaborar em novas soluções e em projetos open-source
-- 💬 Me pergunte sobre qualquer coisa que você quiser
+<ul>
+  <li>
+    <samp>🔭 Atualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR</samp>
+  </li>
+  <li>
+    <samp>🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang, Terraform, Vagrant, Git branching models</samp>
+  </li>
+  <li>
+    <samp>👯 Estou procurando colaborar em novas soluções e em projetos open-source</samp>
+  </li>
+  <li>
+    <samp>💬 Me pergunte sobre qualquer coisa que você quiser</samp>
+  </li>
+</ul>
 
 <br>
 
