@@ -42,7 +42,7 @@
   </li>
 </ul>
 
-<h2>Tecnologias relevantes...</h2>
+<h2>Tecnologias relevantes</h2>
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
