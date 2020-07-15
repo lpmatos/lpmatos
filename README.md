@@ -53,8 +53,6 @@
   <em>
 </p>
 
-<br>
-
 <p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
