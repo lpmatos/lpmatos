@@ -51,6 +51,11 @@
   <em>
     Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
   <em>
+</p>
+
+<br>
+
+<p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
   </a>
@@ -58,11 +63,11 @@
   <a href="https://github.com/lpmatos/twitter-sentimental-analysis-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-sentimental-analysis-covid" />
   </a>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
+</p>
 
 <p align="left">
   <a href="https://github.com/lpmatos/zoho-dynamic-chart">
