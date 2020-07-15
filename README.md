@@ -75,8 +75,9 @@
   </a>
 </p>
 
+<img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="GIF" align="center">
+
 <p>
-  <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="GIF" align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px">
     <em>
       <b>
