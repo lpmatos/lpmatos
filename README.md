@@ -57,7 +57,6 @@
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
   </a>
-
   <a href="https://github.com/lpmatos/twitter-sentimental-analysis-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-sentimental-analysis-covid" />
   </a>
@@ -71,7 +70,6 @@
   <a href="https://github.com/lpmatos/zoho-dynamic-chart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=zoho-dynamic-chart" />
   </a>
-
   <a href="https://github.com/lpmatos/terraform-gitlab-variables">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=terraform-gitlab-variables" />
   </a>
@@ -81,6 +79,13 @@
   <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="GIF">
 </p>
 
-<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> <em><b> Adoro me conectar com pessoas diferentes</b> por isso, se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> :)<em></p>
+<p>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px">
+    <em>
+      <b>
+        Adoro me conectar com pessoas diferentes</b> por isso, se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!
+      </b> :)
+    <em>
+</p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
