@@ -32,7 +32,7 @@
     <samp>🔭 Atualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR</samp>
   </li>
   <li>
-    <samp>🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang, Terraform, Vagrant, Git branching models</samp>
+    <samp>🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang, Terraform, Packer, Git branching models</samp>
   </li>
   <li>
     <samp>👯 Estou procurando colaborar em novas soluções e em projetos open-source</samp>
