@@ -55,9 +55,7 @@
 
 <h2>Top linguagens</h2>
 
-<a href=https://github.com/lpmatos/lpmatos">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatos&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatos&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE"/>
 
 <h2>Projetos</h2>
 
@@ -71,9 +69,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lpmatos/lpmatos">
-    <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
 </p>
 
 <p align="left">
