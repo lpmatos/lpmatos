@@ -55,7 +55,9 @@
 
 <h2>Top linguagens</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatos&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatos&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE"/>
+</p>
 
 <h2>Projetos</h2>
 
