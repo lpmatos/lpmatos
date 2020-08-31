@@ -53,6 +53,14 @@
   <em>
 </p>
 
+<h2>Top linguagens</h2>
+
+<a href=https://github.com/lpmatos/lpmatos">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatos&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE" />
+</a>
+
+<h2>Projetos</h2>
+
 <p align="left">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
@@ -64,14 +72,9 @@
 
 <p align="center">
   <a href=https://github.com/lpmatos/lpmatos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatos&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE" />
-  </a>
-
-  <a href=https://github.com/lpmatos/lpmatos">
     <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
   </a>
 </p>
-
 
 <p align="left">
   <a href="https://github.com/lpmatos/zoho-dynamic-chart">
