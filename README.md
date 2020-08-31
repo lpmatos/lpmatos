@@ -63,8 +63,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
+  <a href=https://github.com/lpmatos/lpmatos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmatos&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE" />
+  </a>
+
+  <a href=https://github.com/lpmatos/lpmatos">
+    <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
+  </a>
 </p>
+
 
 <p align="left">
   <a href="https://github.com/lpmatos/zoho-dynamic-chart">
