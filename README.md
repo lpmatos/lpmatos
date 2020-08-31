@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <a href=https://github.com/lpmatos/lpmatos">
+  <a href="https://github.com/lpmatos/lpmatos">
     <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
   </a>
 </p>
